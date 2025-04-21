@@ -18,4 +18,4 @@ run: $(BIN)
 	./hello-world
 
 clean:
-	rm -f $(BUILD)/* hello-world
+	rm -f $(BUILD)/main.o $(BUILD)/hello-world.o hello-world
