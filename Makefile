@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Iinclude -Wall -std=c11
+CFLAGS = -Iinclude -Wall 
 BUILD = build
 SOURCE = source
 
