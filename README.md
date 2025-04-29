@@ -9,4 +9,5 @@ Created for git & GitHub course for CODE URV
 
 [Acerca de los archivos README](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
-canvi
+## Acknowledgements
+- CODE URV
